@@ -1,0 +1,28 @@
+name: HUBM
+favicon: null
+layout_spectrum: 0.8427717662416399
+typography_spectrum: 0.987890187650919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7897719237953424
+  lightness: 0.7239906806498766
+  saturation: 0.6445521381683648
+  rhythmicContrast: 0.3727282411418855
+purpose: []
